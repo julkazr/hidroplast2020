@@ -45,27 +45,8 @@ class Contact extends Component {
                         <div className="col-md-7">
                             <Reveal effect="fadeInRight" duration={800}>
                                 <div className="input_form">
-                                    <h4>{jhonData.contacttitle}</h4>
-                                    <form action="contact_process.php" id="contactForm">
-                                        <div className="row">
-                                            <div className="col-lg-6">
-                                                <input type="text" id="name" name="name" className="form-control" placeholder="Ime*"/>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <input type="email" className="form-control" id="email" name="email" placeholder="email*"/>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <input type="text" id="subject" name="subject" className="form-control" placeholder="Tema*"/>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <input type="text" className="form-control" id="phone" name="phone" placeholder="Telefon*"/>
-                                            </div>
-                                        </div>
-                                        <textarea name="message" id="message" className="form-control" rows="6" placeholder="Sadržaj..."></textarea>
-                                        <button type="submit" className="btn send_btn theme_btn">Pošalji</button>
-                                    </form>
-                                    <div id="success">Vaša poruka je uspešno poslata!</div>
-                                    <div id="error">Opps! Nešto nije u redu. Pokušajte ponovo</div>
+                                    <h6>{jhonData.role}</h6>
+                                    <p>{jhonData.aboutdetails}</p>
                                 </div>
                             </Reveal>
                         </div>

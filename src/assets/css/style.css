@@ -46,6 +46,16 @@ Table of Content:
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.border {
+  width: 3rem;
+  height: 3rem;
+}
+
+.align-items-center {
+  display: block;
+  margin: 0 auto;
+}
+
 .list_style {
   list-style: none;
   margin: 0px;

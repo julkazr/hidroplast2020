@@ -2,9 +2,6 @@ import React, {Component} from 'react';
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 /*-----pages-----*/
 import {Home} from './Home';
-import {Home2} from './Home2';
-import {Home3} from './Home3';
-import {Home4} from './Home4';
 
 class App extends Component{
     
@@ -14,9 +11,7 @@ class App extends Component{
         <Router>
           <Switch>
             <Route exact path="Home" component={Home}/>
-            <Route path="/Home2" component={Home2} />
-            <Route path="/Home3" component={Home3} />
-            <Route path="/" component={Home4} />
+            <Route path="/" component={Home} />
           </Switch>
         </Router>
       </React.Fragment>

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-scroll';
 import {Fade, Reveal} from 'react-reveal/';
-
+import * as Pdf from '../docs/REFERENTNA_LISTA.pdf';
 
 class About extends Component {
 
@@ -19,7 +19,7 @@ class About extends Component {
                                     <h6>{jhonData.role}</h6>
                                     <p>{jhonData.aboutdetails}</p>
                                     <Link to="contact"  className="theme_btn active">Pišite nam</Link>
-                                    <Link to="/" className="theme_btn">Reference</Link>
+                                    <a href={Pdf} target="_blanc" className="theme_btn">Reference</a>
                                 </div>
                             </Fade>
                         </div>

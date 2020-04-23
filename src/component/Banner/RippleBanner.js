@@ -1,8 +1,7 @@
 import React, {Component} from 'react';
-import { Link } from 'react-router-dom';
 import Reveal from 'react-reveal/Reveal/';
 import WaterWave from 'react-water-wave';
-const image = require('../../image/Sail-Away.jpg');
+const image = '/images/banner.jpg';
 
 class Banner extends Component {
     render(){

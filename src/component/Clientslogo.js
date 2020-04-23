@@ -42,25 +42,25 @@ class Clientslogo extends  Component{
                     <Sectiontitle Title="Jednostavno profesionalno" TitleP="Učinite svet boljim mestom sa profesionalcima."/>
                     <Clientsliders {...settings} className="clients_slider">
                         <div className="item">
-                            <a href=".#"><img src={require('../image/11.png')} alt=""/></a>
+                            <img src={require('../image/11.png')} alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/12.png')}alt=""/></a>
+                            <img src={require('../image/12.png')}alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/13.png')} alt=""/></a>
+                            <img src={require('../image/13.png')} alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/14.png')} alt=""/></a>
+                            <img src={require('../image/14.png')} alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/15.png')} alt=""/></a>
+                            <img src={require('../image/15.png')} alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/16.png')} alt=""/></a>
+                            <img src={require('../image/16.png')} alt=""/>
                         </div>
                         <div className="item">
-                            <a href=".#"><img src={require('../image/6.png')} alt=""/></a>
+                            <img src={require('../image/6.png')} alt=""/>
                         </div>
                     </Clientsliders>
                 </div>
