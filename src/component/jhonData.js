@@ -9,36 +9,42 @@ const jhonData = {
         {
           "id" : 1,
           "iconSource": "/icons/pencil.png",
+          "iconClass": "icon-desktop",
           "serviceTitle": "Projektovanje instalacija",
           "sDetails" : "Projektovanje hidrotehničkih instalacija u industrijskim kao i u stambeno-poslovnim objektima."
         },
         {
           "id" : 2,
           "iconSource": "/icons/plug.png",
+          "iconClass": "icon-pencil",
           "serviceTitle": "Elektrofuziono zavarivanje",
           "sDetails" : "Zavarivanje cevi i fitinga niskog i visokog pritiska. Vrsta materijala za zavarivanje: HDPE, PP, PPR."
         },
         {
           "id" : 3,
           "iconSource": "/icons/wrench.png",
+          "iconClass": "icon-presentation",
           "serviceTitle": "Kompresiono spajanje",
           "sDetails" : "Spajanje cevi i fitnga vodovoda i kanalizacije. Vrste materijala: PE, PEX, PVC, HTTP, PVC KG, PP."
         },
         {
           "id" : 4,
           "iconSource": "/icons/water.png",
+          "iconClass": "icon-linegraph",
           "serviceTitle": "Livenarija",
           "sDetails" : "Mehaničko spajanje i montaža vodovodnih fazonskih komada koji su izrađeni od duktilnog liva."
         },
         {
           "id" : 5,
           "iconSource": "/icons/pipes.png",
+          "iconClass": "icon-gears",
           "serviceTitle": "Cinkovana instalacija",
           "sDetails" : "Izrada sanitarne i PP instalacije od cinkovanih cevi i fitinga. Narezivanje cevi se vrši mehanički."
         },
         {
           "id" : 6,
           "iconSource": "/icons/glue.png",
+          "iconClass": "icon-tools",
           "serviceTitle": "Sistem lepljenja",
           "sDetails" : "Izrada kompletne instalacije vodovoda sistemom lepljenja cevi i fazonskih komada."
         }

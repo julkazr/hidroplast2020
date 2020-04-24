@@ -18,7 +18,7 @@ class Service extends Component{
                                         <div className="col-lg-4 col-sm-6" key={item.id}>
                                             <div className="work_item wow fadeInUp" data-wow-delay="0.1s">
                                                 <div className="border border-dark rounded-circle align-items-center mb-2">
-                                                    <img src={item.iconSource} alt="icon" className="pt-2"/>
+                                                    <img src={item.iconSource} alt="icon" className="pt-3"/>
                                                 </div>
                                                 <h2 className="t_color custom-margin">{item.serviceTitle}</h2>
                                                 <p>{item.sDetails}</p>

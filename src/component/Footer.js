@@ -14,7 +14,7 @@ class Footer extends Component{
                         
                         {/* <h6>Made with love by <a href="https://themeforest.net/user/dreemsthemes">Dreemsthemes</a></h6> */}
                         <p>© 2020 Hidroplast</p>
-                        <p>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
+                        {/* <p>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p> */}
                     </div>
                 </div>
             </section>

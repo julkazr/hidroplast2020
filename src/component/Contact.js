@@ -22,11 +22,11 @@ class Contact extends Component {
                                                                 return(
                                                                     <li className="item" key={info.id}>
                                                                         <div className="media">
-                                                                            <a href="/#">
+                                                                            <span>
                                                                                 <i className={info.icon}></i>
-                                                                            </a>
+                                                                            </span>
                                                                             <div className="media-body">
-                                                                                <a href="/#">{info.text}</a> 
+                                                                                <span>{info.text}</span> 
                                                                             </div>
                                                                         </div>
                                                                     </li>
@@ -45,7 +45,7 @@ class Contact extends Component {
                         <div className="col-md-7">
                             <Reveal effect="fadeInRight" duration={800}>
                                 <div className="input_form">
-                                    <h6>{jhonData.role}</h6>
+                                    <h4>{jhonData.role}</h4>
                                     <p>{jhonData.aboutdetails}</p>
                                 </div>
                             </Reveal>
