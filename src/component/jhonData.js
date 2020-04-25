@@ -4,7 +4,7 @@ const jhonData = {
     "role": "Šta je Hidroplast",
     "ptext": "Projektovanje i izvođenje",
     "aboutme": "O Nama",
-    "aboutdetails": "Hidroplast je osnovan 2014. godine sa idejom da se bavi izradom instalacija u stanogradnji i industriji. Od samog početka obavljanja delatnosti razvoj je usmeravan ka usavršavanju što pripremnih radova tako i izvođačkih. Posle šest nepunih godina rada i razvoja Hidroplast je kompanija koja je uspela u svom prvobitnom cilju. Danas se bavimo projektovanjem i izvođenjem instalacija i iza sebe imamo završene projekte raznih namena, a to se odnosi na stambene, poslovne, ugostiteljske i industrijske objekte. ",
+    "aboutdetails": "Hidroplast je firma koja se bavi projektovanjem hidrotehničkih instalacija kao i njihovim izvođenjem. Poslovanje firme je orijentisano prevenstveno prema industriji i stanogradnji. Izrada instalacija vodovoda i kanalizacije što u stambenim jedinicama tako i u industrijskim objektima iziskuje nova rešenja a samim tim i nove tehnologije. Zahvaljujući modernizacijom objekata razneih namena bili smo u prilici da implementiramo nove i pouzdane vodovodne i kanalizacione sisteme. ",
     "service":[
         {
           "id" : 1,
@@ -74,7 +74,8 @@ const jhonData = {
             icon: 'icon_globe',
             text: 'Sajt: www.hidroplast.rs',
           }
-        ]
+        ],
+        "content": "Hidroplast je osnovan 2014. godine sa idejom da se bavi izradom instalacija u stanogradnji i industriji. Od samog početka obavljanja delatnosti razvoj je usmeravan ka usavršavanju što pripremnih radova tako i izvođačkih. Posle šest nepunih godina rada i razvoja Hidroplast je kompanija koja je uspela u svom prvobitnom cilju. Danas se bavimo projektovanjem i izvođenjem instalacija i iza sebe imamo završene projekte raznih namena, a to se odnosi na stambene, poslovne, ugostiteljske i industrijske objekte. ",
       },
     ],
   contacttitle: 'Pišite',

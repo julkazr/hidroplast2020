@@ -4,6 +4,7 @@ import Reveal from 'react-reveal/Reveal/';
 class Contact extends Component {
     render(){
         let jhonData = this.props.jhonData;
+        console.log(jhonData.contact);
         return(
             <section className="contact-area" id="contact">
                 <div className="container">
@@ -46,7 +47,7 @@ class Contact extends Component {
                             <Reveal effect="fadeInRight" duration={800}>
                                 <div className="input_form">
                                     <h4>{jhonData.role}</h4>
-                                    <p>{jhonData.aboutdetails}</p>
+                                    <p>{jhonData.contact[0].content}</p>
                                 </div>
                             </Reveal>
                         </div>
