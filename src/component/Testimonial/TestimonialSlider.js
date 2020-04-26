@@ -23,8 +23,8 @@ import Slider from 'react-slick';
                     </div>
                     <h6>Video inspekcija kanalizacije</h6>
                     <span>Dodatne usluge</span>
-                    <p>Tehnologija snimanja kanalizacije ima za svrhu da precizno locira uzrok začepljenja, oštecenost ili devijaciju instalacije.
-					Ova tehnologija u mnogome olakšava detektovanje problema a samim tim i njegovo rešavanje.
+                    <p>Tehnologija snimanja kanalizacije ima za svrhu da precizno locira uzrok začepljenja, oštećenost ili devijaciju instalacije.
+					Ova tehnologija u mnogome olakšava detektovanje problema, a samim tim i njegovo rešavanje.
 					Kolorni monitoring, prečnik glave kamere Ø8.50mm, snimanje snimka ili fotografije.
 					</p>
                 </div>
@@ -34,7 +34,7 @@ import Slider from 'react-slick';
                     </div>
                     <h6>Bušenje betona</h6>
                     <span>Dodatne usluge</span>
-                    <p>Pod bušenjem betona se podrazumeva bušenje bez opiljaka delova betona, što za rezultat ima perfektnu i ravnu rupu.
+                    <p>Pod bušenjem betona se podrazumeva bušenje delova betona bez opiljaka, što za rezultat ima perfektnu I ravnu rupu.
 					Izrada kružnih otvora vertikalno, horizontalno ili koso bušenje za montažu raznih vrsta instalacija
 					sada je vrlo jednostavno, brzo i kvalitetno čak i ako se radi o armirano betonskom materijalu.</p>
                 </div>

@@ -46,7 +46,7 @@ class Contact extends Component {
                         <div className="col-md-7">
                             <Reveal effect="fadeInRight" duration={800}>
                                 <div className="input_form">
-                                    <h4>{jhonData.role}</h4>
+                                    <h4>{jhonData.contact[0].contentTitle}</h4>
                                     <p>{jhonData.contact[0].content}</p>
                                 </div>
                             </Reveal>
