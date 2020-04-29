@@ -145,7 +145,7 @@ class ItemGrid extends Component {
                     </div>
                     <div className="col-md-6 col-sm-6 col-xs-12 grid-item vodovod">
                         <div className="portfolio hover-style">
-                            <img src="/images/sve4.png" alt=""/>
+                            <img src="/images/vodovod4.png" alt=""/>
                             <div className="item-img-overlay">
                                 <div className="overlay-info text-center">
                                     <h6 className="sm-titl">VODOVOD</h6>
@@ -155,7 +155,7 @@ class ItemGrid extends Component {
                     </div>
                     <div className="col-md-3 col-sm-6 col-xs-12 grid-item vodovod">
                         <div className="portfolio hover-style">
-                            <img src="/images/sve5.png" alt=""/>
+                            <img src="/images/vodovod5.png" alt=""/>
                             <div className="item-img-overlay">
                                 <div className="overlay-info text-center">
                                     <h6 className="sm-titl">VODOVOD</h6>
@@ -165,7 +165,7 @@ class ItemGrid extends Component {
                     </div>
                     <div className="col-md-3 col-sm-6 col-xs-12 grid-item vodovod">
                         <div className="portfolio hover-style">
-                            <img src="/images/sve6.png" alt=""/>
+                            <img src="/images/vodovod6.png" alt=""/>
                             <div className="item-img-overlay">
                                 <div className="overlay-info text-center">
                                     <h6 className="sm-titl">VODOVOD</h6>
